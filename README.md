@@ -11,3 +11,7 @@ Show a unique hand gesture for each action when prompted.
 4. **Control phase**
 Use gestures or speak commands like:
 "play", "pause", "next", "volume down", "mute" etc
+
+### Voice & Gesture Tips
+1. Speak one command at a time.
+2. You can show your own custom gesture for each action during setup.
