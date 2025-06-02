@@ -7,7 +7,7 @@ This project enables hands-free control of your media player (like Spotify) usin
    pip install opencv-python mediapipe pyautogui SpeechRecognition pyaudio
 2. **Run the code file**
 3. **Setup phase**
-Show a unique hand gesture for each action when prompted.
+Show a unique hand gesture for each action when prompted using your fingers. Use different fingers for different gestures because the gestures are stored in vector format eg:[0,0,0,0,0]
 4. **Control phase**
 Use gestures or speak commands like:
 "play", "pause", "next", "volume down", "mute" etc
